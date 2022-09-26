@@ -11,9 +11,24 @@ body  {
     max-width: 600px;
     margin: auto;
 }
-#contact-us {
-    font-size: 72px;
+#big-text {
+    font-size: 96px;
     color:white;
     padding-top: 40px;
     padding-bottom: 20px;
+    font-weight: bold;
+}
+#monkey-image {
+    width: 60%;
+    padding:20px;
+}
+#monkey-div {
+    display:flex;
+}
+#about-text {
+    padding:0% 10% 10% 10%;
+}
+#steam-link {
+    float:right;
+    color:white !important;
 }
